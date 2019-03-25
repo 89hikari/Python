@@ -59,5 +59,5 @@ print("Общее времся в пути ч: ", int(total_hours), "ч. ", int(
 print("Количество дозаправок: ", refuels)
 print("Потрачено время на дозаправку: ", refuels*refuel_time, " минут")
 print("Топлива потрачено: ", fuel)
-print("Стоимость топлива_gfeg: ", fuel*price)
+print("Стоимость топлива: ", fuel*price)
 print("Hello, Hikari")
